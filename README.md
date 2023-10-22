@@ -30,5 +30,5 @@ You have several derived classes that inherit from the Animal class, such as Mam
 Bird, Fish, Reptiles, and Amphibians. These derived classes override the put_data() 
 function.
 
-Inheritance is used as shown in link 
+Inheritance is used as shown in link https://github.com/AashmitMckenzie/Animal-Kingdom-Hierarchy/blob/main/Animal%20Hierarchy%20Inheritance%20Class%20Diaagram.png
 
